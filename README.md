@@ -3,9 +3,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/DeCoppelElias/DeCoppelElias/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-snake-light.svg">
+          srcset="https://raw.githubusercontent.com/DeCoppelElias/DeCoppelElias/output/github-snake-light.svg">
   <img alt="GitHub contribution snake"
-       src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-snake-light.svg">
+       src="https://raw.githubusercontent.com/DeCoppelElias/DeCoppelElias/output/github-snake-light.svg">
 </picture>
