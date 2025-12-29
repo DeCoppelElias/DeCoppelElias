@@ -19,7 +19,8 @@ jobs:
         with:
           github_user_name: DeCoppelElias
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
